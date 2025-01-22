@@ -1,6 +1,5 @@
 # Explaining Puns: Enhancing Computational Humor Understanding with Large Language Models
 
-Authors: Yingchen Ma, Nemath Ahmed, Rajvi Parekh
 
 ### Summary
 
